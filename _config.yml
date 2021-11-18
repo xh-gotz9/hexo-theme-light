@@ -1,5 +1,5 @@
 menu:
-  Home:
+  Home: /
   Archives: archives
 
 widgets:
@@ -15,7 +15,7 @@ twitter:
   tweet_count: 5
 
 addthis:
-  enable: true
+  enable: false
   pubid:
   facebook: true
   twitter: true
@@ -27,7 +27,7 @@ fancybox: true
 google_analytics:
 rss:
 
-comment_provider: facebook
+comment_provider:
 # Facebook comment
 facebook:
   appid: 123456789012345
